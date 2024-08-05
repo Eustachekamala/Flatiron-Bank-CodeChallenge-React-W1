@@ -1,0 +1,81 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": 2,
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": 3,
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
+    },
+    {
+      "id": 4,
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": 5,
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": 7,
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "id": 8,
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": 9,
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": 10,
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "date": "2024-08-04",
+      "description": "Birthday check form Dad",
+      "category": "Gift",
+      "amount": "200",
+      "id": 11
+    },
+    {
+      "date": "2024-08-14",
+      "description": "Bye Car",
+      "category": "Transportation",
+      "amount": "10000",
+      "id": 12
+    }
+  ]
+}
