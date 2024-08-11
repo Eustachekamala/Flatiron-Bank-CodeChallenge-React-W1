@@ -69,13 +69,6 @@
       "category": "Gift",
       "amount": "200",
       "id": 11
-    },
-    {
-      "date": "2024-08-14",
-      "description": "Bye Car",
-      "category": "Transportation",
-      "amount": "10000",
-      "id": 12
     }
   ]
 }
